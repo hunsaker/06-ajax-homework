@@ -1,0 +1,26 @@
+button {
+  background-color: lightblue;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 25px;
+  font-family: fantasy;
+}
+
+body  {
+  text-align: center;
+  background-color: lightgray;
+  background-image: url(https://openclipart.org/image/2400px/svg_to_png/233988/GentlemenShakingHands.png)
+}
+
+h1  {
+  font-size: 3em;
+}
+
+input[type=text] {
+  font-size:  25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type=submit]  {
+  font-size: 25px;
+}
